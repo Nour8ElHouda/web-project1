@@ -1,0 +1,11 @@
+update project:
+
+git commit -m "adding more text"
+git add .
+git push origin master
+
+
+update if files were added: 
+
+git pull
+git push
