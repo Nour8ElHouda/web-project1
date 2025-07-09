@@ -9,3 +9,7 @@ update if files were added:
 
 git pull
 git push
+
+
+adding a file :
+git add <name of the file>
